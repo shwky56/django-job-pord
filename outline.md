@@ -1,27 +1,25 @@
 Job :
-    - title
-    - location
-    - job type
-    - description
-    - published at 
-    - vacancy 
-    - salary
-    - category
-    - experience
-    
 
+- title
+- location
+- job type
+- description
+- published at
+- vacancy
+- salary
+- category
+- experience
     - apply job
     - post job
-   
 
-Blog :
-    - title
-    - description
-    - created_at
-    - category
-    - tags
-    - authar
+Blog : 
 
+- title
+- description 
+- created_at 
+- category 
+- tags 
+- authar
 
     - shearch
     - commens
@@ -29,6 +27,5 @@ Blog :
 
 contact
 home
-
 
 login
