@@ -11,6 +11,7 @@ Job :
 - experience
     - apply job
     - post job
+    - add to favoutites
 
 Blog : 
 
